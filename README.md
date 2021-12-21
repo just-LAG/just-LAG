@@ -3,9 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=just-lag&label=Profile%20views&color=000000&style=plastic" alt="just-lag" /> </p>
 
-<p align="center">- 🔭 I’m currently working on Ꮖηꮪꮻꮇηιꭺ Ꮪꭼꮮfᏼꮻꭲ</p>
+<p align="center">- 🔭 I’m currently working on Nubuku, a NSFW based discord bot</p>
 
-<p align="center">- 🌱 I’m currently learning VBScript & PowerShell</p>
+<p align="center">- 🌱 I’m currently learning VBScript</p>
+
+<p align="center">- ⚠️ Insomnia Selfbot has been deprecated</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
